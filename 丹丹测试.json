@@ -1,0 +1,148 @@
+{
+  "filename": "新生问卷调查",
+  "list": [
+    {
+      "name": "标题",
+      "id": "9To71oyQBqBEIfbBYSBEJ",
+      "componentName": "Headline",
+      "propValues": [
+        {
+          "label": "标题",
+          "key": "textarea",
+          "value": "一、基本信息"
+        }
+      ]
+    },
+    {
+      "name": "新建题目",
+      "id": "UTVPfr6aMrS3Vd_db5ov0",
+      "componentName": "Title",
+      "propValues": [
+        {
+          "label": "题目",
+          "key": "textarea",
+          "value": "1.1、你所在的学院是："
+        },
+        {
+          "label": "类型",
+          "key": "chooseType",
+          "value": "radio"
+        },
+        {
+          "label": "选项",
+          "key": "options",
+          "value": [
+            {
+              "id": "XISFgF9YLtGr8oV-rq2Ln",
+              "optionType": "dropdownOptions",
+              "value": "XY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新建题目",
+      "id": "BBn8Tx37b7aWXv7LEO-5S",
+      "componentName": "Title",
+      "propValues": [
+        {
+          "label": "题目",
+          "key": "textarea",
+          "value": "1.2、你未报到的原因是："
+        },
+        {
+          "label": "类型",
+          "key": "chooseType",
+          "value": "radio"
+        },
+        {
+          "label": "选项",
+          "key": "options",
+          "value": [
+            {
+              "id": "3MjXETdxOUXcJzZTRNI1g",
+              "optionType": "fixedOptions",
+              "value": "复读"
+            },
+            {
+              "id": "KddS_CY3s1OaYwl9lKyQS",
+              "optionType": "fixedOptions",
+              "value": "就业"
+            },
+            {
+              "id": "PK4_hHcogWQKTAv0hsyRM",
+              "optionType": "fixedOptions",
+              "value": "国内其他学院录取"
+            },
+            {
+              "id": "lMTmyuY3Eo39U7IK10qS0",
+              "optionType": "fixedOptions",
+              "value": "港澳台或国外留学"
+            },
+            {
+              "id": "Vds-brkh_UPGF4YvZ9eez",
+              "optionType": "inputBox",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "标题",
+      "id": "mVGO9VjHL3RunfVGh43Bq",
+      "componentName": "Headline",
+      "propValues": [
+        {
+          "label": "标题",
+          "key": "textarea",
+          "value": "二、其他信息"
+        }
+      ]
+    },
+    {
+      "name": "新建题目",
+      "id": "J1UosPN7cFKrCvkPho0vs",
+      "componentName": "Title",
+      "propValues": [
+        {
+          "label": "题目",
+          "key": "textarea",
+          "value": "2.1、你的兴趣爱好是："
+        },
+        {
+          "label": "类型",
+          "key": "chooseType",
+          "value": "checkbox"
+        },
+        {
+          "label": "选项",
+          "key": "options",
+          "value": [
+            {
+              "id": "fm3630KVZ-Jb45TsEduzM",
+              "optionType": "fixedOptions",
+              "value": "锻炼"
+            },
+            {
+              "id": "nnMORsapROld2WIRlm3C3",
+              "optionType": "fixedOptions",
+              "value": "读书"
+            },
+            {
+              "id": "oS14MvODZmLUJ8ks7_y6Q",
+              "optionType": "fixedOptions",
+              "value": "旅游"
+            },
+            {
+              "id": "yoFYDOLLisBbnYkoMdgjG",
+              "optionType": "inputBox",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
